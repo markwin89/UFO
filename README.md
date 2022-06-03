@@ -9,7 +9,7 @@
     ![Site](https://user-images.githubusercontent.com/101272613/171938159-7e1860df-0995-4cd7-96e9-ba1fe9bd4168.PNG)
   - Search Fields
 
-![Search Criteria](https://user-images.githubusercontent.com/101272613/171938044-856a8501-9d28-4083-aa0a-573efb54d4dd.PNG)
+    ![Search Criteria](https://user-images.githubusercontent.com/101272613/171938044-856a8501-9d28-4083-aa0a-573efb54d4dd.PNG)
   - Search for NC.
     ![NC search](https://user-images.githubusercontent.com/101272613/171938360-437986f8-4376-4d14-ae01-36af980e2c2a.PNG)
   - Search for light type.
